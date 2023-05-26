@@ -20,5 +20,7 @@
 - Database
     - Query analysis
     - Model structure
+    - Scalability
+    - Fault tolerant
     
 
